@@ -1,0 +1,23 @@
+[
+  {
+    "place": "Tokyo",
+    "population": 37339832,
+    "description": "A futuristic metropolis where neon-lit skyscrapers meet historic temples and traditional gardens.",
+    "capital": "Tokyo",
+    "imageUrl": "https://stock.adobe.com/search?k=tokyo"
+  },
+  {
+    "place": "Paris",
+    "population": 2141000,
+    "description": "Known as the City of Light, it is a global hub for art, fashion, and history, centered around the Eiffel Tower.",
+    "capital": "Paris",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg"
+  },
+  {
+    "place": "New York City",
+    "population": 8399000,
+    "description": "A cultural and financial capital known for iconic sights like Times Square, Central Park, and the Statue of Liberty.",
+    "capital": "Albany (State Capital)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
+  }
+]
