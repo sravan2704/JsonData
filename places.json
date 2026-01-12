@@ -129,6 +129,7 @@
     "place": "Seoul",
     "population": 9776000,
     "description": "South Korea's capital, blending modern skyscrapers with traditional palaces.",
-    "capital": "Seoul"
+    "capital": "Seoul",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bangkok_Skyline.jpg/330px-Bangkok_Skyline.jpg"
   }
 ]
