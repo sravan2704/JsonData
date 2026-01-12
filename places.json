@@ -1,121 +1,332 @@
 [
   {
-    "place": "Paris",
-    "population": 2141000,
-    "description": "Known as the City of Light, it is a global hub for art, fashion, and history, centered around the Eiffel Tower.",
+    "id": 1,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": "1.4 Billion",
+    "currency": "Indian Rupee",
+    "language": "Hindi, English",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/in.png",
+    "description": "India is a country in South Asia known for its cultural diversity."
+  },
+  {
+    "id": 2,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": "331 Million",
+    "currency": "US Dollar",
+    "language": "English",
+    "continent": "North America",
+    "flag": "https://flagcdn.com/w320/us.png",
+    "description": "The United States is known for its global influence and technological advancement."
+  },
+  {
+    "id": 3,
+    "name": "France",
     "capital": "Paris",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg"
+    "population": "67 Million",
+    "currency": "Euro",
+    "language": "French",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/fr.png",
+    "description": "France is famous for its art, fashion, and historical landmarks."
   },
   {
-    "place": "New York City",
-    "population": 8399000,
-    "description": "A cultural and financial capital known for iconic sights like Times Square, Central Park, and the Statue of Liberty.",
-    "capital": "Albany (State Capital)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
-  },
-  {
-    "place": "Tokyo",
-    "population": 13960000,
-    "description": "Japan's bustling capital, known for its blend of modern skyscrapers, historic temples, and vibrant culture.",
-    "capital": "Tokyo",
-    "imageUrl": "https://www.advantour.com/img/japan/images/tokyo.jpg"
-  },
-  {
-    "place": "London",
-    "population": 9304000,
-    "description": "A historic and cosmopolitan city famous for landmarks like Big Ben, the Tower Bridge, and Buckingham Palace.",
-    "capital": "London",
-    "imageUrl": "https://images.pexels.com/photos/1796715/pexels-photo-1796715.jpeg?cs=srgb&dl=pexels-chaitaastic-1796715.jpg&fm=jpg"
-  },
-  {
-    "place": "Sydney",
-    "population": 5312000,
-    "description": "Australia's largest city, renowned for its stunning harbor, Opera House, and beautiful beaches.",
-    "capital": "Canberra (National Capital)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sydney_Opera_House_Sails.jpg/330px-Sydney_Opera_House_Sails.jpg"
-  },
-  {
-    "place": "Dubai",
-    "population": 3331000,
-    "description": "A futuristic city in the UAE known for luxury shopping, ultramodern architecture, and vibrant nightlife.",
-    "capital": "Abu Dhabi",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dubai_skyline.jpg/330px-Dubai_skyline.jpg"
-  },
-  {
-    "place": "Singapore",
-    "population": 5639000,
-    "description": "A global financial hub and island city-state known for its cleanliness, greenery, and modern skyline.",
-    "capital": "Singapore",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Singapore_skyline.jpg/330px-Singapore_skyline.jpg"
-  },
-  {
-    "place": "Hong Kong",
-    "population": 7451000,
-    "description": "A vibrant metropolis and financial center with a stunning harbor and rich cultural heritage.",
-    "capital": "Hong Kong",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hong_Kong_Skyline.jpg/330px-Hong_Kong_Skyline.jpg"
-  },
-  {
-    "place": "Barcelona",
-    "population": 5586000,
-    "description": "A Spanish city famous for its art, architecture, and Mediterranean beaches.",
-    "capital": "Madrid",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Barcelona_Skyline.jpg/330px-Barcelona_Skyline.jpg"
-  },
-  {
-    "place": "Rome",
-    "population": 2873000,
-    "description": "Italy's capital, steeped in history and home to ancient landmarks like the Colosseum and Vatican City.",
-    "capital": "Rome",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Rome_Colosseum.jpg/330px-Rome_Colosseum.jpg"
-  },
-  {
-    "place": "Berlin",
-    "population": 3769000,
-    "description": "Germany's capital, known for its history, art scene, and modern architecture.",
+    "id": 4,
+    "name": "Germany",
     "capital": "Berlin",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Berlin_Brandenburg_Gate.jpg/330px-Berlin_Brandenburg_Gate.jpg"
+    "population": "83 Million",
+    "currency": "Euro",
+    "language": "German",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/de.png",
+    "description": "Germany is known for engineering, automobiles, and rich history."
   },
   {
-    "place": "Moscow",
-    "population": 11920000,
-    "description": "Russia's capital, famous for the Kremlin, Red Square, and its rich cultural heritage.",
-    "capital": "Moscow",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Moscow_Kremlin.jpg/330px-Moscow_Kremlin.jpg"
+    "id": 5,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "125 Million",
+    "currency": "Yen",
+    "language": "Japanese",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/jp.png",
+    "description": "Japan blends traditional culture with advanced technology."
   },
   {
-    "place": "Toronto",
-    "population": 2930000,
-    "description": "Canada's largest city, known for its multicultural vibe and iconic CN Tower.",
+    "id": 6,
+    "name": "China",
+    "capital": "Beijing",
+    "population": "1.41 Billion",
+    "currency": "Yuan",
+    "language": "Mandarin",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/cn.png",
+    "description": "China has one of the world's oldest civilizations."
+  },
+  {
+    "id": 7,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "213 Million",
+    "currency": "Brazilian Real",
+    "language": "Portuguese",
+    "continent": "South America",
+    "flag": "https://flagcdn.com/w320/br.png",
+    "description": "Brazil is famous for football, carnival, and the Amazon rainforest."
+  },
+  {
+    "id": 8,
+    "name": "United Kingdom",
+    "capital": "London",
+    "population": "67 Million",
+    "currency": "Pound Sterling",
+    "language": "English",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/gb.png",
+    "description": "The UK has a rich history and is home to iconic landmarks."
+  },
+  {
+    "id": 9,
+    "name": "Canada",
     "capital": "Ottawa",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Toronto_Skyline.jpg/330px-Toronto_Skyline.jpg"
+    "population": "38 Million",
+    "currency": "Canadian Dollar",
+    "language": "English, French",
+    "continent": "North America",
+    "flag": "https://flagcdn.com/w320/ca.png",
+    "description": "Canada is known for its natural beauty and high quality of life."
   },
   {
-    "place": "Los Angeles",
-    "population": 3990000,
-    "description": "The entertainment capital of the world, home to Hollywood and beautiful beaches.",
-    "capital": "Sacramento (State Capital)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Los_Angeles_Skyline.jpg/330px-Los_Angeles_Skyline.jpg"
+    "id": 10,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "26 Million",
+    "currency": "Australian Dollar",
+    "language": "English",
+    "continent": "Oceania",
+    "flag": "https://flagcdn.com/w320/au.png",
+    "description": "Australia is famous for beaches, wildlife, and the Great Barrier Reef."
   },
   {
-    "place": "San Francisco",
-    "population": 883305,
-    "description": "A tech hub and cultural city known for the Golden Gate Bridge and Silicon Valley.",
-    "capital": "Sacramento (State Capital)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Francisco_Golden_Gate.jpg/330px-San_Francisco_Golden_Gate.jpg"
+    "id": 11,
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": "146 Million",
+    "currency": "Russian Ruble",
+    "language": "Russian",
+    "continent": "Europe/Asia",
+    "flag": "https://flagcdn.com/w320/ru.png",
+    "description": "Russia is the largest country in the world by land area."
   },
   {
-    "place": "Bangkok",
-    "population": 10500000,
-    "description": "Thailand's capital, known for ornate temples, vibrant street life, and floating markets.",
-    "capital": "Bangkok",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bangkok_Skyline.jpg/330px-Bangkok_Skyline.jpg"
+    "id": 12,
+    "name": "Italy",
+    "capital": "Rome",
+    "population": "60 Million",
+    "currency": "Euro",
+    "language": "Italian",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/it.png",
+    "description": "Italy is known for its cuisine, art, and ancient Roman history."
   },
   {
-    "place": "Seoul",
-    "population": 9776000,
-    "description": "South Korea's capital, blending modern skyscrapers with traditional palaces.",
+    "id": 13,
+    "name": "Spain",
+    "capital": "Madrid",
+    "population": "47 Million",
+    "currency": "Euro",
+    "language": "Spanish",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/es.png",
+    "description": "Spain is famous for its festivals, culture, and architecture."
+  },
+  {
+    "id": 14,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": "126 Million",
+    "currency": "Mexican Peso",
+    "language": "Spanish",
+    "continent": "North America",
+    "flag": "https://flagcdn.com/w320/mx.png",
+    "description": "Mexico has a rich cultural heritage and delicious cuisine."
+  },
+  {
+    "id": 15,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": "60 Million",
+    "currency": "Rand",
+    "language": "English, Afrikaans",
+    "continent": "Africa",
+    "flag": "https://flagcdn.com/w320/za.png",
+    "description": "South Africa is known for its diverse cultures and wildlife."
+  },
+  {
+    "id": 16,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": "104 Million",
+    "currency": "Egyptian Pound",
+    "language": "Arabic",
+    "continent": "Africa",
+    "flag": "https://flagcdn.com/w320/eg.png",
+    "description": "Egypt is home to ancient pyramids and the Nile River."
+  },
+  {
+    "id": 17,
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": "35 Million",
+    "currency": "Saudi Riyal",
+    "language": "Arabic",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/sa.png",
+    "description": "Saudi Arabia is the birthplace of Islam."
+  },
+  {
+    "id": 18,
+    "name": "South Korea",
     "capital": "Seoul",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bangkok_Skyline.jpg/330px-Bangkok_Skyline.jpg"
+    "population": "52 Million",
+    "currency": "Won",
+    "language": "Korean",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/kr.png",
+    "description": "South Korea is known for K-pop and advanced technology."
+  },
+  {
+    "id": 19,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": "45 Million",
+    "currency": "Argentine Peso",
+    "language": "Spanish",
+    "continent": "South America",
+    "flag": "https://flagcdn.com/w320/ar.png",
+    "description": "Argentina is famous for tango, football, and landscapes."
+  },
+  {
+    "id": 20,
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "population": "5 Million",
+    "currency": "New Zealand Dollar",
+    "language": "English, Maori",
+    "continent": "Oceania",
+    "flag": "https://flagcdn.com/w320/nz.png",
+    "description": "New Zealand is known for its stunning natural scenery."
+  },
+  {
+    "id": 21,
+    "name": "Norway",
+    "capital": "Oslo",
+    "population": "5.5 Million",
+    "currency": "Norwegian Krone",
+    "language": "Norwegian",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/no.png",
+    "description": "Norway is known for its fjords, mountains, and high standard of living."
+  },
+  {
+    "id": 22,
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "population": "10.5 Million",
+    "currency": "Swedish Krona",
+    "language": "Swedish",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/se.png",
+    "description": "Sweden is famous for innovation, design, and social welfare systems."
+  },
+  {
+    "id": 23,
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "population": "17.5 Million",
+    "currency": "Euro",
+    "language": "Dutch",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/nl.png",
+    "description": "The Netherlands is known for canals, windmills, and tulips."
+  },
+  {
+    "id": 24,
+    "name": "Switzerland",
+    "capital": "Bern",
+    "population": "8.7 Million",
+    "currency": "Swiss Franc",
+    "language": "German, French, Italian",
+    "continent": "Europe",
+    "flag": "https://flagcdn.com/w320/ch.png",
+    "description": "Switzerland is famous for its neutrality, banking, and Alpine scenery."
+  },
+  {
+    "id": 25,
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": "85 Million",
+    "currency": "Turkish Lira",
+    "language": "Turkish",
+    "continent": "Europe/Asia",
+    "flag": "https://flagcdn.com/w320/tr.png",
+    "description": "Turkey connects Europe and Asia and has a rich cultural heritage."
+  },
+  {
+    "id": 26,
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "population": "275 Million",
+    "currency": "Indonesian Rupiah",
+    "language": "Indonesian",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/id.png",
+    "description": "Indonesia is an archipelago with thousands of islands and diverse cultures."
+  },
+  {
+    "id": 27,
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "population": "70 Million",
+    "currency": "Baht",
+    "language": "Thai",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/th.png",
+    "description": "Thailand is famous for temples, beaches, and street food."
+  },
+  {
+    "id": 28,
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "population": "98 Million",
+    "currency": "Vietnamese Dong",
+    "language": "Vietnamese",
+    "continent": "Asia",
+    "flag": "https://flagcdn.com/w320/vn.png",
+    "description": "Vietnam is known for its history, cuisine, and natural landscapes."
+  },
+  {
+    "id": 29,
+    "name": "Chile",
+    "capital": "Santiago",
+    "population": "19 Million",
+    "currency": "Chilean Peso",
+    "language": "Spanish",
+    "continent": "South America",
+    "flag": "https://flagcdn.com/w320/cl.png",
+    "description": "Chile stretches along South America's western edge with diverse geography."
+  },
+  {
+    "id": 30,
+    "name": "Peru",
+    "capital": "Lima",
+    "population": "33 Million",
+    "currency": "Sol",
+    "language": "Spanish",
+    "continent": "South America",
+    "flag": "https://flagcdn.com/w320/pe.png",
+    "description": "Peru is home to ancient civilizations like the Incas and Machu Picchu."
   }
 ]
