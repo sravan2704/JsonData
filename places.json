@@ -1,12 +1,5 @@
 [
   {
-    "place": "Tokyo",
-    "population": 37339832,
-    "description": "A futuristic metropolis where neon-lit skyscrapers meet historic temples and traditional gardens.",
-    "capital": "Tokyo",
-    "imageUrl": "https://stock.adobe.com/search?k=tokyo"
-  },
-  {
     "place": "Paris",
     "population": 2141000,
     "description": "Known as the City of Light, it is a global hub for art, fashion, and history, centered around the Eiffel Tower.",
