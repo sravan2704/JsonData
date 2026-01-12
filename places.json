@@ -14,32 +14,18 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
   },
   {
-    "place": "Paris",
-    "population": 2141000,
-    "description": "Known as the City of Light, it is a global hub for art, fashion, and history, centered around the Eiffel Tower.",
-    "capital": "Paris",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg"
-  },
-  {
-    "place": "New York City",
-    "population": 8399000,
-    "description": "A cultural and financial capital known for iconic sights like Times Square, Central Park, and the Statue of Liberty.",
-    "capital": "Albany (State Capital)",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg"
-  },
-  {
     "place": "Tokyo",
     "population": 13960000,
     "description": "Japan's bustling capital, known for its blend of modern skyscrapers, historic temples, and vibrant culture.",
     "capital": "Tokyo",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tokyo_Tower_and_around_Skyscrapers.jpg/330px-Tokyo_Tower_and_around_Skyscrapers.jpg"
+    "imageUrl": "https://www.advantour.com/img/japan/images/tokyo.jpg"
   },
   {
     "place": "London",
     "population": 9304000,
     "description": "A historic and cosmopolitan city famous for landmarks like Big Ben, the Tower Bridge, and Buckingham Palace.",
     "capital": "London",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/London_Montage_L.jpg/330px-London_Montage_L.jpg"
+    "imageUrl": "https://images.pexels.com/photos/1796715/pexels-photo-1796715.jpeg?cs=srgb&dl=pexels-chaitaastic-1796715.jpg&fm=jpg"
   },
   {
     "place": "Sydney",
