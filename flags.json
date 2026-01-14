@@ -7,7 +7,7 @@
     "currency": "Indian Rupee",
     "language": "Hindi, English",
     "continent": "Asia",
-    "flag": "https://cdn.pixabay.com/photo/2020/07/04/08/29/indian-flag-5368686_1280.jpg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/960px-Flag_of_India.svg.png",
     "description": "India is a country in South Asia known for its cultural diversity."
   },
   {
@@ -29,7 +29,7 @@
     "currency": "Euro",
     "language": "French",
     "continent": "Europe",
-    "flag": "https://thumbs.dreamstime.com/b/french-country-flag-colors-vector-high-resolution-eps-france-french-country-flag-colors-vector-160361563.jpg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png",
     "description": "France is famous for its art, fashion, and historical landmarks."
   },
   {
@@ -84,7 +84,7 @@
     "currency": "Pound Sterling",
     "language": "English",
     "continent": "Europe",
-    "flag": "https://flagcdn.com/w320/gb.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png",
     "description": "The UK has a rich history and is home to iconic landmarks."
   },
   {
@@ -95,7 +95,7 @@
     "currency": "Canadian Dollar",
     "language": "English, French",
     "continent": "North America",
-    "flag": "https://flagcdn.com/w320/ca.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/2560px-Flag_of_Canada.svg.png",
     "description": "Canada is known for its natural beauty and high quality of life."
   },
   {
@@ -106,7 +106,7 @@
     "currency": "Australian Dollar",
     "language": "English",
     "continent": "Oceania",
-    "flag": "https://flagcdn.com/w320/au.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/2560px-Flag_of_Australia.svg.png",
     "description": "Australia is famous for beaches, wildlife, and the Great Barrier Reef."
   },
   {
@@ -117,7 +117,7 @@
     "currency": "Russian Ruble",
     "language": "Russian",
     "continent": "Europe/Asia",
-    "flag": "https://flagcdn.com/w320/ru.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Commander-in-chief_of_Russia_%28President%29.PNG/900px-Flag_of_Commander-in-chief_of_Russia_%28President%29.PNG",
     "description": "Russia is the largest country in the world by land area."
   },
   {
@@ -128,7 +128,7 @@
     "currency": "Euro",
     "language": "Italian",
     "continent": "Europe",
-    "flag": "https://flagcdn.com/w320/it.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/2560px-Flag_of_Italy.svg.png",
     "description": "Italy is known for its cuisine, art, and ancient Roman history."
   },
   {
@@ -139,7 +139,7 @@
     "currency": "Euro",
     "language": "Spanish",
     "continent": "Europe",
-    "flag": "https://flagcdn.com/w320/es.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png",
     "description": "Spain is famous for its festivals, culture, and architecture."
   },
   {
@@ -150,7 +150,7 @@
     "currency": "Mexican Peso",
     "language": "Spanish",
     "continent": "North America",
-    "flag": "https://flagcdn.com/w320/mx.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
     "description": "Mexico has a rich cultural heritage and delicious cuisine."
   },
   {
@@ -161,7 +161,7 @@
     "currency": "Rand",
     "language": "English, Afrikaans",
     "continent": "Africa",
-    "flag": "https://flagcdn.com/w320/za.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1280px-Flag_of_South_Africa.svg.png",
     "description": "South Africa is known for its diverse cultures and wildlife."
   },
   {
@@ -172,7 +172,7 @@
     "currency": "Egyptian Pound",
     "language": "Arabic",
     "continent": "Africa",
-    "flag": "https://flagcdn.com/w320/eg.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png",
     "description": "Egypt is home to ancient pyramids and the Nile River."
   },
   {
@@ -183,7 +183,7 @@
     "currency": "Saudi Riyal",
     "language": "Arabic",
     "continent": "Asia",
-    "flag": "https://flagcdn.com/w320/sa.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1280px-Flag_of_Saudi_Arabia.svg.png",
     "description": "Saudi Arabia is the birthplace of Islam."
   },
   {
@@ -194,7 +194,7 @@
     "currency": "Won",
     "language": "Korean",
     "continent": "Asia",
-    "flag": "https://flagcdn.com/w320/kr.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1280px-Flag_of_South_Korea.svg.png",
     "description": "South Korea is known for K-pop and advanced technology."
   },
   {
@@ -205,7 +205,7 @@
     "currency": "Argentine Peso",
     "language": "Spanish",
     "continent": "South America",
-    "flag": "https://flagcdn.com/w320/ar.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/2560px-Flag_of_Argentina.svg.png",
     "description": "Argentina is famous for tango, football, and landscapes."
   },
   {
@@ -216,7 +216,7 @@
     "currency": "New Zealand Dollar",
     "language": "English, Maori",
     "continent": "Oceania",
-    "flag": "https://flagcdn.com/w320/nz.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/2560px-Flag_of_New_Zealand.svg.png",
     "description": "New Zealand is known for its stunning natural scenery."
   },
   {
@@ -227,7 +227,7 @@
     "currency": "Norwegian Krone",
     "language": "Norwegian",
     "continent": "Europe",
-    "flag": "https://flagcdn.com/w320/no.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
     "description": "Norway is known for its fjords, mountains, and high standard of living."
   },
   {
@@ -238,7 +238,7 @@
     "currency": "Swedish Krona",
     "language": "Swedish",
     "continent": "Europe",
-    "flag": "https://flagcdn.com/w320/se.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png",
     "description": "Sweden is famous for innovation, design, and social welfare systems."
   },
   {
@@ -249,7 +249,7 @@
     "currency": "Euro",
     "language": "Dutch",
     "continent": "Europe",
-    "flag": "https://flagcdn.com/w320/nl.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1280px-Flag_of_the_Netherlands.svg.png",
     "description": "The Netherlands is known for canals, windmills, and tulips."
   },
   {
@@ -260,7 +260,7 @@
     "currency": "Swiss Franc",
     "language": "German, French, Italian",
     "continent": "Europe",
-    "flag": "https://flagcdn.com/w320/ch.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/500px-Flag_of_Switzerland_within_2to3.svg.png",
     "description": "Switzerland is famous for its neutrality, banking, and Alpine scenery."
   },
   {
@@ -271,7 +271,7 @@
     "currency": "Turkish Lira",
     "language": "Turkish",
     "continent": "Europe/Asia",
-    "flag": "https://flagcdn.com/w320/tr.png",
+    "flag": "https://www.freeiconspng.com/thumbs/turkey-flag/turkish-turkey-flag-png-clipart-6.png",
     "description": "Turkey connects Europe and Asia and has a rich cultural heritage."
   },
   {
@@ -282,7 +282,7 @@
     "currency": "Indonesian Rupiah",
     "language": "Indonesian",
     "continent": "Asia",
-    "flag": "https://flagcdn.com/w320/id.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png",
     "description": "Indonesia is an archipelago with thousands of islands and diverse cultures."
   },
   {
@@ -293,7 +293,7 @@
     "currency": "Baht",
     "language": "Thai",
     "continent": "Asia",
-    "flag": "https://flagcdn.com/w320/th.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/330px-Flag_of_Thailand.svg.png",
     "description": "Thailand is famous for temples, beaches, and street food."
   },
   {
@@ -304,7 +304,7 @@
     "currency": "Vietnamese Dong",
     "language": "Vietnamese",
     "continent": "Asia",
-    "flag": "https://flagcdn.com/w320/vn.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png",
     "description": "Vietnam is known for its history, cuisine, and natural landscapes."
   },
   {
@@ -315,7 +315,7 @@
     "currency": "Chilean Peso",
     "language": "Spanish",
     "continent": "South America",
-    "flag": "https://flagcdn.com/w320/cl.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png",
     "description": "Chile stretches along South America's western edge with diverse geography."
   },
   {
@@ -326,7 +326,7 @@
     "currency": "Sol",
     "language": "Spanish",
     "continent": "South America",
-    "flag": "https://flagcdn.com/w320/pe.png",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/2560px-Flag_of_Peru_%28state%29.svg.png",
     "description": "Peru is home to ancient civilizations like the Incas and Machu Picchu."
   }
 ]
